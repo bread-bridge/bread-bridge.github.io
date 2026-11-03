@@ -1,9 +1,5 @@
 # Cybersecurity: Ethics and Attacks
 
-## testing
+## example header
 
-### testing
-
-#### testing
-
-testing
+body paragraph example text
