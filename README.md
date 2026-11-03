@@ -9,7 +9,7 @@ half sunk a shattered visage lies\
 whose wrinkled lip and sneer of cold command\
 tell its sculptor well those passions read\
 the hand that mocked them and the heart that fed\
-which yet survive stamped on these lifeless this\
+which yet survive stamped on these lifeless things\
 and on the pedestal these words appear\
 my name is ozymandias, king of kings\
 look on my works ye mighty and despair\
