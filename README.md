@@ -33,7 +33,7 @@ sample text
 
 sample text
 
-<img src="https://static.wikia.nocookie.net/3rd-life-smp/images/b/b5/Bread_Bridge.png/revision/latest/scale-to-width-down/1200?cb=20251004152631" alt="Bread Bridge | The Life Series Wiki | Fandom"/>
+<img src="bbbbyeahhhhh.png" alt="bread bridge"/>
 
 ## Examples in the Real World
 
