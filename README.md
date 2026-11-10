@@ -18,7 +18,7 @@ Denial of Service/Distributed Denial of Service (DoS/DDoS) attacks are a kind of
 
 DoS/DDoS attacks work by flooding a service with requests, overloading the system and causing it to become unresponsive. Think of it like people crowding the entrance of a restaurant, preventing legitimate customers from getting inside.
 
-<img src="ddos_diagram.png" alt="diagram of a ddos attack"/>
+<img src="" alt="diagram of a ddos attack"/>
 
 ## Examples in the Real World
 
