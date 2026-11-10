@@ -29,4 +29,6 @@ Anonymous first became associated with hacktivism in 2008 following a series of 
 The DDoS attacks were at first carried out with the Gigaloader and JMeter applications. Within a few days, these were supplanted by the Low Orbit Ion Cannon (LOIC), a network stress-testing application allowing users to flood a server with TCP or UDP packets. The LOIC soon became a signature weapon in the Anonymous arsenal; however, it would also lead to a number of arrests of less experienced Anons who failed to conceal their IP addresses.\
 \
 \
-sources: https://en.wikipedia.org/wiki/Denial-of-service_attack, https://en.wikipedia.org/wiki/Anonymous_(hacker_group)
+sources:\
+https://en.wikipedia.org/wiki/Denial-of-service_attack
+https://en.wikipedia.org/wiki/Anonymous_(hacker_group)
